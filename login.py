@@ -53,7 +53,7 @@ def log_results_to_csv(domain, username, status, message, screenshot_path=""):
 
 
 # Load test cases
-test_cases = read_test_cases_from_excel("C:\\python\\learningselenium\\test_cases.xlsx")
+test_cases = read_test_cases_from_excel(os.path.join(os.getcwd(), "test_cases.xlsx"))
 
 
 # Function for Login Test
