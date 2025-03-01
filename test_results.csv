@@ -1,0 +1,47 @@
+Timestamp,Domain,Username,Status,Message,Screenshot
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+2025-03-02 01:19:52,TREDS,SKHAN,Success,Login Successful,
+2025-03-02 01:20:05,InvalidDomain,ADMIN,Error,"Message: element not interactable
+  (Session info: chrome=133.0.6943.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF79F08C6A5+28789]
+	(No symbol) [0x00007FF79EFF5B20]
+	(No symbol) [0x00007FF79EE88DCC]
+	(No symbol) [0x00007FF79EEE0774]
+	(No symbol) [0x00007FF79EED2314]
+	(No symbol) [0x00007FF79EF0732A]
+	(No symbol) [0x00007FF79EED1BC6]
+	(No symbol) [0x00007FF79EF07540]
+	(No symbol) [0x00007FF79EF2F7E3]
+	(No symbol) [0x00007FF79EF07103]
+	(No symbol) [0x00007FF79EECFFC0]
+	(No symbol) [0x00007FF79EED1273]
+	GetHandleVerifier [0x00007FF79F3D1AED+3458237]
+	GetHandleVerifier [0x00007FF79F3E829C+3550316]
+	GetHandleVerifier [0x00007FF79F3DDB9D+3507565]
+	GetHandleVerifier [0x00007FF79F152C6A+841274]
+	(No symbol) [0x00007FF79F0009EF]
+	(No symbol) [0x00007FF79EFFCB34]
+	(No symbol) [0x00007FF79EFFCCD6]
+	(No symbol) [0x00007FF79EFEC119]
+	BaseThreadInitThunk [0x00007FFF84C0259D+29]
+	RtlUserThreadStart [0x00007FFF85C4AF38+40]
+",screenshots\error_ADMIN_20250302_012005.png
