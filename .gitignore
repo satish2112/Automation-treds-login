@@ -1,1 +1,6 @@
-.venv/ 
+.venv/
+.idea/
+.idea/learningselenium.iml
+.idea/misc.xml
+test_results.log
+__pycache__/
